@@ -1,0 +1,20 @@
+body{
+
+}
+div{
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+h1{}
+h2{}
+p{}
+h3{
+    font-size: 33px;
+    background-color: green;
+}
+img{
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
